@@ -1,9 +1,9 @@
-module Players
-  class Computer < Player
+#module Players
+#  class Computer < Player
     # your code here
-  end
+#  end
 
-  class Human < Player
+#  class Human < Player
     # your code here
-  end
-end
+#  end
+#end
